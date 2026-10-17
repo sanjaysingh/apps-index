@@ -86,6 +86,11 @@ window.APPS = [
         keywords: ['code', 'editor', 'ide', 'programming', 'offline', 'syntax', 'developer', 'text editor', 'monaco']
     },
     {
+        title: 'Offline PDF to Markdown',
+        url: 'https://pdf2md.sanjaysingh.net',
+        keywords: ['pdf', 'markdown', 'md', 'convert', 'converter', 'offline', 'document', 'text', 'pdf to markdown']
+    },
+    {
         title: 'Offline Spreadsheet',
         url: 'https://sheet.sanjaysingh.net',
         keywords: ['spreadsheet', 'excel', 'csv', 'sheet', 'cells', 'formula', 'table', 'grid', 'workbook', 'offline']
