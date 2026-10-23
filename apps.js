@@ -106,6 +106,11 @@ window.APPS = [
         keywords: ['passport', 'photo', 'id', 'visa', 'picture', 'headshot', 'biometric', 'travel document', 'portrait']
     },
     {
+        title: 'Password Generator',
+        url: 'https://passgen.sanjaysingh.net',
+        keywords: ['password', 'passphrase', 'generator', 'random', 'secure', 'characters', 'symbols', 'special characters', 'strength']
+    },
+    {
         title: 'QR Code Generator',
         url: 'https://qrcode.sanjaysingh.net',
         keywords: ['qr', 'qrcode', 'qr code', 'barcode', 'scan', 'generator', '2d code', 'matrix']
